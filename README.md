@@ -10,18 +10,18 @@ When I was a intern in TV UFG, I gained experience in android development, some 
 <p>
 In addition to android development, in my work at ATSD IT Solutions, I gained knowledge in .NET Framework and C# language, which allows me to work with APIs Rest, Web Forms, ASP.NET MVC and  desktop development using Windows Forms.
 Furthermore, I have Udemy and Coursera certifications in versioning systems, such as Git, GitHub, BitBucket and Azure DevOps.
-I know how to manage code with versioning systems, such Git, GitHub, BitBucket, Azure DevOps. I have some experience with CI/CD in Azure DevOps, how to work with docker containers.
+I know how to manage code with versioning systems, such as Git, GitHub, BitBucket, Azure DevOps. I have some experience with CI/CD in Azure DevOps, how to work with docker containers.
 </p>
 
-- 👯 I like to do **research and inovation.** <br>
-- 📫 Contact me by e-mail:**jefferson.c.silva@outlook.com** <br>
+- 👯 I would like to collaborate with **research and innovation.** <br>
+- 📫 Contact me via e-mail:**jefferson.c.silva@outlook.com** <br>
 - 📄 Or using Linkedin [www.linkedin.com/in/jeffersonsilvac](www.linkedin.com/in/jeffersonsilvac)
 <!-- 
 - 👯 Eu procuro colaborar em **pesquisa e inovação.**
 - 💬 Me pergunte sobre **desenvolvimento android, java, desenvolvimento de jogos, linguagem C#, e tudo mais sobre o mundo da computação.**
 - 📫 Fale comigo em **jefferson.c.silva@outlook.com**
 - 📄 Saiba mais em [www.linkedin.com/in/jeffersonsilvac](www.linkedin.com/in/jeffersonsilvac)
--->
+
 <h3 align="left">You can find me on:</h3>
 
 <p align="left">
@@ -29,7 +29,7 @@ I know how to manage code with versioning systems, such Git, GitHub, BitBucket, 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jeffersonsilvac" height="30" width="40" />
   </a>
 </p>
-
+-->
 <h3 align="left">Languages and frameworks:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
