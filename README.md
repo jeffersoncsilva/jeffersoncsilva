@@ -12,8 +12,9 @@ In addition to android development, in my work at ATSD IT Solutions, I gained kn
 Furthermore, I have Udemy and Coursera certifications in versioning systems, such as Git, GitHub, BitBucket and Azure DevOps.
 I know how to manage code with versioning systems, such Git, GitHub, BitBucket, Azure DevOps. I have some experience with CI/CD in Azure DevOps, how to work with docker containers.
 </p>
-- 👯 I like to do **research and inovation.**
-- 📫 Contact me by e-mail:**jefferson.c.silva@outlook.com**
+
+- 👯 I like to do **research and inovation.** <br>
+- 📫 Contact me by e-mail:**jefferson.c.silva@outlook.com** <br>
 - 📄 Or using Linkedin [www.linkedin.com/in/jeffersonsilvac](www.linkedin.com/in/jeffersonsilvac)
 <!-- 
 - 👯 Eu procuro colaborar em **pesquisa e inovação.**
